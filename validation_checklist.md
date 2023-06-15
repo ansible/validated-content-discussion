@@ -28,6 +28,7 @@
 - [ ] Has 2 or more active maintainers listed in a CODEOWNERS file. 
 - [ ] Has an approved OSI license 
 - [ ] Content falls logically into one of these domains - infra, security, network, cloud, edge
+- [ ] (If internal content) Content has been or is being migrated into the redhat-cop Github org
 
 **Content Testing/Validation**
 - [ ] runs `ansible-lint` “Production” profile in an active Github workflow on the repository
