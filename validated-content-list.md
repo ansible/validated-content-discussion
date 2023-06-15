@@ -1,3 +1,5 @@
+# Accepted Validated Content
+
 | Validated Content Collection Name  | Description |
 | ------------- | ------------- |
 | cloud.aws_ops | Roles/playbooks to demo Ansible on AWS  |
