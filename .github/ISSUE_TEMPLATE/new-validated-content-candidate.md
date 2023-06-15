@@ -14,9 +14,12 @@ assignees: ''
 #### Link to Github Repo
 <!---link -->
 
-#### CHECKLIST
+#### Review Due By
+<!--- Date of the next ACoP meeting at least 2 weeks away-->
 
-##### Business Checks:
+### CHECKLIST
+
+#### Business Checks:
 
 **Content Viability** 
 - [ ] must support a “business-viable” use case
@@ -27,7 +30,7 @@ assignees: ''
 **Content Duplication**
 - [ ] use case addressed by the content isn’t covered by another validated content collection already - to the best of our knowledge
 
-##### Technical Checks:
+#### Technical Checks:
 
 **Content Conformity**
 - [ ] is packaged as a content collection - see the [Collection Requirements Checklist](https://github.com/ansible-collections/overview/blob/main/collection_checklist.md)
