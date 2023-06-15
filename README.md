@@ -12,7 +12,7 @@ The review due date will be the next ACoP meeting ~2 weeks away from the issue o
 
 _(Note: If there are a large number of candidates in the queue, this timeframe may increase)_
 
-If there is a general agreement on validating the content, Partner Engineering will open a PR for final sign-off. This PR will **only** contain the addition of the candidate name and descripion to the table in [validated-content-list.md](validated-content-list.md). 
+If there is a general agreement on validating the content, Partner Engineering will open a PR for final sign-off. This PR will **only** contain the addition of the candidate name and description to the table in [validated-content-list.md](validated-content-list.md). 
 
 On the due date, Partner Engineering and the ACoP will do a live final sign-off at the biweekly ACoP meeting. 
 
