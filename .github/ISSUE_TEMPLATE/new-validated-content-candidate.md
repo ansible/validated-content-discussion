@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 #### Candidate Name
-<!--- Use this form to request a new repository which will be used to host a community collection -->
+<!--example.validated_collection -->
 
 
 #### Link to Github Repo
-<link>
+<!---link -->
 
 #### CHECKLIST
 
