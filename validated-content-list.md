@@ -14,5 +14,6 @@
 | network.bgp | Manage BGP resources independent of platforms and perform BGP health checks  |
 | network.interfaces | Manage Interfaces resources independent of platforms and perform INTERFACES health checks  |
 | network.ospf | Manage OSPF resources independent of platforms and perform SPF health checks  |
+| network.telemetry | Manage Telemetry configuration on networking devices and setup a Telegraf - Kafka stack  |
 | network.vpn | Maintain and validate VPN tunnels  |
 | security.firewall_mgmt | Build, maintain and validate Firewall management and policies  |
