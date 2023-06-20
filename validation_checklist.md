@@ -31,6 +31,6 @@
 - [ ] (If internal content) Content has been or is being migrated into the redhat-cop Github org
 
 **Content Testing/Validation**
-- [ ] runs `ansible-lint` “Production” profile in an active Github workflow on the repository
-- [ ] passes the `ansible-lint` “Production” profile
+- [ ] maintainer runs `ansible-lint` “Production” profile in an active Github workflow on the repository
+- [ ] Github workflow passes the `ansible-lint` “Production” profile
 - [ ] ansible-lint.yml file (if present) only contains justified ignores - with a comment explaining the need for each ignore
