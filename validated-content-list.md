@@ -2,7 +2,6 @@
 
 | Validated Content Collection Name  | Description |
 | ------------- | ------------- |
-| ansible.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
 | cloud.aws_ops | Roles/playbooks to demo Ansible on AWS  |
 | cloud.aws_troubleshooting  | Ansible roles to help troubleshoot AWS Resources  |
 | cloud.azure_ops | Ansible roles and playbook to help automate the management of resources on Microsoft Azure |
@@ -11,6 +10,7 @@
 | infra.ah_configuration | Ansible playbooks to interact with an Ansible Automation Hub or Galaxy NG server  |
 | infra.controller_configuration | Ansible roles to interact with an AWX or Ansible Controller server  |
 | infra.ee_utilities | Roles to manage Ansible Execution Environments  |
+| infra.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
 | infra.osbuild | Collection for management of osbuild composer to build rpm-ostree  |
 | network.base | Core for other validated content; provides the platform agnostic role - Resource Manager  |
 | network.bgp | Manage BGP resources independent of platforms and perform BGP health checks  |
