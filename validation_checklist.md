@@ -18,13 +18,13 @@
 - [ ] is YAML only (Exception: if plugin(s) included are necessary for this specific use-case and are not generic enough for a certified collection)
 - [ ] if there is a plugin(s), it is not a duplicate of something from a certified or supported collection - to the best of our knowledge
 - [ ] supported plugin/module used in a validated role is noted as a dependency
-- [ ] install / requirements.yml information all points to Automation Hub, not a Github repo
 
 **Content Compliance** 
 - [ ] no known policy or legal reason for why the content shouldn’t be published
 - [ ] README contains information about the purpose of the collection and how to install it
 - [ ] README contains a link to the collection license file
 - [ ] README contains general usage and requirements information such as required versions of ansible-core and Python, and other required libraries or SDKs
+- [ ] install / requirements.yml information all points to Automation Hub, not a Github repo
 - [ ] Repo is self-certified with the [OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/en) and has the OpenSSF Best Practices Badge 
 - [ ] Has 2 or more active maintainers listed in a CODEOWNERS file. 
 - [ ] Has an approved OSI license 
