@@ -18,6 +18,7 @@
 - [ ] is YAML only (Exception: if plugin(s) included are necessary for this specific use-case and are not generic enough for a certified collection)
 - [ ] if there is a plugin(s), it is not a duplicate of something from a certified or supported collection - to the best of our knowledge
 - [ ] supported plugin/module used in a validated role is noted as a dependency
+- [ ] install / requirements.yml information all points to Automation Hub, not a Github repo
 
 **Content Compliance** 
 - [ ] no known policy or legal reason for why the content shouldn’t be published
