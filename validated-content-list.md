@@ -11,8 +11,9 @@
 | infra.controller_configuration | Ansible roles to interact with an AWX or Ansible Controller server  |
 | infra.ee_utilities | Roles to manage Ansible Execution Environments  |
 | infra.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
-| network.acls | Manage acls resources independent of platforms and perform acls health checks |
+| infra.lvm_snapshots | Reliable snapshot/rollback capabilities for enabling RHEL in-place upgrades  |
 | infra.osbuild | Collection for management of osbuild composer to build rpm-ostree  |
+| network.acls | Manage acls resources independent of platforms and perform acls health checks |
 | network.base | Core for other validated content; provides the platform agnostic role - Resource Manager  |
 | network.bgp | Manage BGP resources independent of platforms and perform BGP health checks  |
 | network.interfaces | Manage Interfaces resources independent of platforms and perform INTERFACES health checks  |
