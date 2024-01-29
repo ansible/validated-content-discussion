@@ -5,6 +5,7 @@
 | cloud.aws_ops | Roles/playbooks to demo Ansible on AWS  |
 | cloud.aws_troubleshooting  | Ansible roles to help troubleshoot AWS Resources  |
 | cloud.azure_ops | Ansible roles and playbook to help automate the management of resources on Microsoft Azure |
+| cloud.gcp_ops | Ansible roles and playbooks to help automate the management of resources on GCP |
 | edge.microshift | Management and automation of microshift to build rpm-ostree based images |
 | infra.aap_utilities | Roles to install/manage AWX and Ansible Automation Platform  |
 | infra.ah_configuration | Ansible playbooks to interact with an Ansible Automation Hub or Galaxy NG server  |
