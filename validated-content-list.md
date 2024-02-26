@@ -13,6 +13,7 @@
 | infra.ee_utilities | Roles to manage Ansible Execution Environments  |
 | infra.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
 | infra.lvm_snapshots | Reliable snapshot/rollback capabilities for enabling RHEL in-place upgrades  |
+| infra.middleware_ocpv | Seamlessly handle the complete lifecycle of Virtual Machines within an OpenShift Virtualization runtime environment  |
 | infra.osbuild | Collection for management of osbuild composer to build rpm-ostree  |
 | network.acls | Manage acls resources independent of platforms and perform acls health checks |
 | network.base | Core for other validated content; provides the platform agnostic role - Resource Manager  |
