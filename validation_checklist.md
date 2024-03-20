@@ -25,7 +25,7 @@
 - [ ] README contains a link to the collection license file
 - [ ] README contains general usage and requirements information such as required versions of ansible-core and Python, and other required libraries or SDKs
 - [ ] install / requirements.yml information all points to Automation Hub, not a Github repo
-- [ ] Repo is self-certified with the [OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/en) and has the OpenSSF Best Practices Badge 
+- [ ] Repo is self-certified with the [OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/en) and has the OpenSSF Best Practices Badge. _Note: This app is endorsed by and contributed to by Red Hat engineers. See the [OpenSSF BadgeApp Security standards](https://github.com/coreinfrastructure/best-practices-badge/blob/main/docs/assurance-case.md#badgeapp-security-its-assurance-case) for information on the app's security design and benefits._
 - [ ] Has 2 or more active maintainers listed in a CODEOWNERS file. 
 - [ ] Has an approved OSI license 
 - [ ] Content falls logically into one of these domains - infra, security, network, cloud, edge
