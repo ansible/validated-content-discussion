@@ -10,6 +10,7 @@
 | infra.aap_utilities | Roles to install/manage AWX and Ansible Automation Platform  |
 | infra.ah_configuration | Ansible playbooks to interact with an Ansible Automation Hub or Galaxy NG server  |
 | infra.controller_configuration | Ansible roles to interact with an AWX or Ansible Controller server  |
+| infra.convert2rhel | Ansible roles you can use to perform conversion using the Convert2RHEL framework |
 | infra.ee_utilities | Roles to manage Ansible Execution Environments  |
 | infra.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
 | infra.lvm_snapshots | Reliable snapshot/rollback capabilities for enabling RHEL in-place upgrades  |
