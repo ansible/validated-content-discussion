@@ -10,6 +10,7 @@
 | edge.microshift | Management and automation of microshift to build rpm-ostree based images |
 | infra.aap_utilities | Roles to install/manage AWX and Ansible Automation Platform  |
 | infra.ah_configuration | Ansible playbooks to interact with an Ansible Automation Hub or Galaxy NG server  |
+| infra.ansible_rekey_variables | Manage vaulted Ansible inventories and rekey encrypted variables |
 | infra.controller_configuration | Ansible roles to interact with an AWX or Ansible Controller server  |
 | infra.convert2rhel | Ansible roles you can use to perform conversion using the Convert2RHEL framework |
 | infra.ee_utilities | Roles to manage Ansible Execution Environments  |
