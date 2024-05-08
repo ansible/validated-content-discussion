@@ -13,6 +13,7 @@
 | infra.ansible_rekey_variables | Manage vaulted Ansible inventories and rekey encrypted variables |
 | infra.controller_configuration | Ansible roles to interact with an AWX or Ansible Controller server  |
 | infra.convert2rhel | Ansible roles you can use to perform conversion using the Convert2RHEL framework |
+| infra.eda_configuration | Ansible collection for easy interaction with an EDA Controller server via Ansible playbooks |
 | infra.ee_utilities | Roles to manage Ansible Execution Environments  |
 | infra.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
 | infra.lvm_snapshots | Reliable snapshot/rollback capabilities for enabling RHEL in-place upgrades  |
