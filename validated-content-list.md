@@ -6,6 +6,7 @@
 | cloud.aws_troubleshooting  | Ansible roles to help troubleshoot AWS Resources  |
 | cloud.azure_ops | Ansible roles and playbook to help automate the management of resources on Microsoft Azure |
 | cloud.gcp_ops | Ansible roles and playbooks to help automate the management of resources on GCP |
+| cloud.terraform_ops | Ansible roles to help automate the management of Cloud providers' resources for Red Hat Ansible Automation Platform Terraform integration. |
 | cloud.vmware_ops | Ansible roles and playbooks to help automate the management of VMware
 | edge.microshift | Management and automation of microshift to build rpm-ostree based images |
 | infra.aap_utilities | Roles to install/manage AWX and Ansible Automation Platform  |
