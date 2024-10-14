@@ -28,3 +28,4 @@
 | network.telemetry | Manage Telemetry configuration on networking devices and setup a Telegraf - Kafka stack  |
 | network.vpn | Maintain and validate VPN tunnels  |
 | security.firewall_mgmt | Build, maintain and validate Firewall management and policies  |
+| thousandeyes.rulebooks | Roles for using ThousandEyes webhook alert notifications with Event-Driven Ansible  |
