@@ -9,6 +9,7 @@
 | cloud.terraform_ops | Ansible roles to help automate the management of Cloud providers' resources for Red Hat Ansible Automation Platform Terraform integration. |
 | cloud.vmware_ops | Ansible roles and playbooks to help automate the management of VMware
 | edge.microshift | Management and automation of microshift to build rpm-ostree based images |
+| f5networks.f5_eda_security| Roles for helping anyone looking to set up event-driven automation with F5 Products, utilizing real-time monitoring with either ElasticSearch or Dynatrace  |
 | infra.aap_utilities | Roles to install/manage AWX and Ansible Automation Platform  |
 | infra.ah_configuration | Ansible playbooks to interact with an Ansible Automation Hub or Galaxy NG server  |
 | infra.ansible_rekey_variables | Manage vaulted Ansible inventories and rekey encrypted variables |
