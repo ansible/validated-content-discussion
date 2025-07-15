@@ -22,6 +22,7 @@
 | infra.middleware_ocpv | Seamlessly handle the complete lifecycle of Virtual Machines within an OpenShift Virtualization runtime environment  |
 | infra.openshift_virtualization_migration | Migrate VM workloads from existing hypervisors to Red Hat OpenShift Virtualization using Ansible Automation Platform   |
 | infra.osbuild | Collection for management of osbuild composer to build rpm-ostree  |
+| infra.openshift_virtualization_ops | Collection for the managing and maintaining VM workloads within Red Hat OpenShift Virtualization |
 | network.acls | Manage acls resources independent of platforms and perform acls health checks |
 | network.base | Core for other validated content; provides the platform agnostic role - Resource Manager  |
 | network.bgp | Manage BGP resources independent of platforms and perform BGP health checks  |
