@@ -20,6 +20,7 @@
 | infra.leapp | Perform RHEL in-place upgrades using the Leapp framework  |
 | infra.lvm_snapshots | Reliable snapshot/rollback capabilities for enabling RHEL in-place upgrades  |
 | infra.middleware_ocpv | Seamlessly handle the complete lifecycle of Virtual Machines within an OpenShift Virtualization runtime environment  |
+| infra.openshift_virtualization_migration | Migrate VM workloads from existing hypervisors to Red Hat OpenShift Virtualization using Ansible Automation Platform   |
 | infra.osbuild | Collection for management of osbuild composer to build rpm-ostree  |
 | network.acls | Manage acls resources independent of platforms and perform acls health checks |
 | network.base | Core for other validated content; provides the platform agnostic role - Resource Manager  |
